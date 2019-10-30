@@ -109,6 +109,10 @@ $(document).ready(function () {
     init();
   });
 
+  $('#new_array_button').click(function () {
+    init();
+  })
+
   $('#start_button').click(function () {
     startSorting();
   })

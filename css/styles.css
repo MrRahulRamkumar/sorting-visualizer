@@ -9,6 +9,11 @@ canvas {
     display: block;
 }
 
+#new_array_button {
+    float: left;
+    margin-left: 10px;
+}
+
 #controls-container {
     padding: 50px;
     display: flex;
