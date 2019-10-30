@@ -1,0 +1,22 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #FFF
+}
+
+canvas {
+    display: block;
+}
+
+#controls-container {
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#canvas-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
